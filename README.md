@@ -6,3 +6,6 @@ First stage is to get rid of the clumsy external control box of the CR-10s. Ulti
 Parts needed for power:
 - Mean Well UHP-350-24 [https://www.amazon.co.uk/dp/B07MVLP41L]
 - IEC Switched Inlet [https://www.amazon.co.uk/dp/B0D261KJTN]
+
+Location of the new Mean Well PSU:
+![PSU bracket](psu_bracket.jpg)
